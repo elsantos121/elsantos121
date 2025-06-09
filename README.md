@@ -13,8 +13,6 @@
 	
 ## <picture><img src = "https://cdn.pixabay.com/photo/2019/11/14/03/22/arrogant-4625238_960_720.png" width = 40px></picture> **SOBRE MI**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 - Creacion de paginas y sitios webs
