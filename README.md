@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hola  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=blue&size=30&center=false&lines=Soy+Santiago+Orlando+Luna;tengo+19+años+de+edad;Estudiante+de+programación;futuro+desarrolador+fullstack;y+amo+python...<3"/>
+	<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=blue&size=30&center=false&lines=Soy+Santiago+Orlando+Luna;tengo+19+años+de+edad;Estudiante+de+programación;futuro+desarrolador+fullstack;y+me+encanta+python...<3"/>
 </div>	
 
 ## <picture><img src = "https://cdn.pixabay.com/photo/2019/11/14/03/22/arrogant-4625238_960_720.png" width = 25px></picture> **SOBRE MI**
