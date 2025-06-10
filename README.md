@@ -46,40 +46,36 @@
 
 </p>
 
+
+
 ## <b> Estemos conectados</b><img width ="80">
+<br>
+<div align='left' style="display: flex; gap: 10px;">
 
-<div align='left'>
-
-<ul>
-
-<li>
 <a href="https://www.linkedin.com/in/santiago-luna-671887358/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="linkedin" style="margin-bottom: 5px;"/>
 </a>
-</li>
 
-<br>
-
-<li>
 <a href="https://x.com/SantyLu93838344" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge" alt="twitter" style="margin-bottom: 5px;"/>
 </a>
-</li>
 
-<br>
-
-<li>
-<a href="santys1629@gmail.com" target="_blank" >
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:santys1629@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge" alt="gmail" style="margin-bottom: 5px;" />
 </a>
-</li>
-	
-</ul>
+
+<a href="https://www.facebook.com/profile.php?id=100076858825281" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge" alt="facebook" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.tiktok.com/@santiagoluna1179?lang=es-419" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok" style="margin-bottom: 5px;" />
+</a>
+
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align='center'>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elsantos121&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=elsantos121&theme=highcontrast&hide_border=false)<br/>
