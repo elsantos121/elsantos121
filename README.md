@@ -3,28 +3,19 @@
 
 <div align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=blue&size=30&center=false&lines=Soy+Santiago+Orlando+Luna;tengo+19+años+de+edad;Estudiante+de+programación;futuro+desarrolador+fullstack;y+amo+python...<3"/>
-</div>
+</div>	
 
-<br>
-	
-## <picture><img src = "https://cdn.pixabay.com/photo/2019/11/14/03/22/arrogant-4625238_960_720.png" width = 40px></picture> **SOBRE MI**
+## <picture><img src = "https://cdn.pixabay.com/photo/2019/11/14/03/22/arrogant-4625238_960_720.png" width = 25px></picture> **SOBRE MI**
 
-<br>
 
-- Creacion de paginas y sitios webs
-- Organizado y responsable
-- Liderazgo nato
-- Poca experiencia en anbito laboral
-- Especial Experiencia en pyrhon, HTMLL, CSS y Js
-<br><br>
+👨‍💻 Tengo 19 años y estudio la Tecnicatura en Programación Full Stack en la Universidad Provincial de Córdoba.<br>🐍 Me apasiona la programación, especialmente con tecnologías como Python, HTML, CSS, JavaScript y SQL.<br>🛠️ Utilizo herramientas como Visual Studio Code y Sublime Text para desarrollar mis proyectos.<br>🎮 He creado videojuegos utilizando GameMaker Studio, explorando tanto la lógica como el diseño interactivo.<br>📚 Aunque no tengo mucha experiencia profesional, tengo muchas ganas de aprender, crecer y aportar en equipos de trabajo.<br>🚀 Estoy en constante formación y siempre abierto a nuevos desafíos en el mundo del desarrollo.<br><br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
-
 
 - **Front-End Development**:
   
@@ -55,13 +46,8 @@
 
 </p>
 
-<br>
-<br>
-
-
-
 ## <b> Estemos conectados</b><img width ="80">
-<br>
+
 <div align='left'>
 
 <ul>
@@ -83,21 +69,28 @@
 <br>
 
 <li>
-<a href="santys1629@gmail.com" target="_blank">
+<a href="santys1629@gmail.com" target="_blank" >
 <img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
 </ul>
 </div>
-
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
 
 <div align='center'>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=elsantos121&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=elsantos121&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elsantos121&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=elsantos121&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=elsantos121&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## <b>Gracias por leer espero su llamada✨</b>
 
