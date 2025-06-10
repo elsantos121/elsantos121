@@ -42,11 +42,7 @@
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
 </p>
-
-
 
 ## <b> Estemos conectados</b><img width ="80">
 <br>
@@ -72,10 +68,12 @@
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok" style="margin-bottom: 5px;" />
 </a>
 
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://wa.me/5493549580285" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge" alt="whatsapp" style="margin-bottom: 5px;" />
+</a>
 
-<div align='center'>
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elsantos121&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=elsantos121&theme=highcontrast&hide_border=false)<br/>
